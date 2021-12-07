@@ -1,0 +1,22 @@
+*{
+    margin: 1px;
+    background-color: rgb(136, 116, 60);
+}
+.motherContainer{
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.img{
+    height : 290px;
+    width : 400px;
+
+}
+h1{
+    margin-top: 10px;
+    color: black;
+}
